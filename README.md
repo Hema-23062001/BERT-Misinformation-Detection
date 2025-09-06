@@ -35,7 +35,7 @@ optuna
 
 ## ▶️ Usage
 ```bash
-jupyter notebook 24CS60R47_transfomer.ipynb
+jupyter notebook transfomer.ipynb
 ```
 
 ## 📑 Report
