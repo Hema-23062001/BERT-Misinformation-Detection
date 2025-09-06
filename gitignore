@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_convert
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data & logs
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.log
+*.txt
+
+# Outputs
+*.ckpt
+*.pth
+*.pt
+*.model
+*.bin
+
+# System files
+.DS_Store
+Thumbs.db
